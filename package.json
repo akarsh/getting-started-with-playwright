@@ -1,0 +1,17 @@
+{
+  "name": "getting-started-with-playwright",
+  "version": "1.0.0",
+  "description": "This project demonstrates the usage of playwright in a Node.js project with GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "author": "Akarsh Seggemu",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@playwright/test": "^1.36.2"
+  }
+}
