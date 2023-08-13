@@ -13,5 +13,8 @@
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "@playwright/test": "^1.36.2"
+  },
+  "dependencies": {
+    "allure-playwright": "^2.5.0"
   }
 }
